@@ -1,3 +1,9 @@
+// Write a program  to find the sum of the series 1 +11 + 111 + 1111 + .. n terms
+// Sample Input → n : 5      
+
+// [ Explanation : Sum of the series  ⇒ 1 + 11 + 111 + 1111 + 11111 = 12345]                                              
+
+// Sample Output → 12345
 #include<stdio.h>
 int main() 
 {

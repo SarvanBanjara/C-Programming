@@ -1,3 +1,4 @@
+// Accept two numbers from user and swap their values 
 #include<stdio.h>
 int main()
 {

@@ -1,4 +1,7 @@
+// Write a program to input two string and add these strings in alternate order like
+// Sample Input →String  : “Hello Shery”
 
+// Sample Output → String is “Hello Shery” and its length is 11
 #include <stdio.h>
 #include <string.h>
 int main()

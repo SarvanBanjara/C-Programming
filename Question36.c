@@ -1,4 +1,5 @@
-#include<stdio.h>
+//Write a  program to check whether a given number is a 'Perfect' number or not. 
+//[ Explanation : A number whose sum of factors(excluding number itself) is equal to  itself  ]  #include<stdio.h>
 #include<math.h>
 int main() 
 {

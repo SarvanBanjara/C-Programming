@@ -1,3 +1,10 @@
+
+
+// Write a program  to separate the individual characters from a string. 
+// Sample Input → String  : “SHERYIANS”                           
+
+// Sample Output → S H E R Y I A N 
+
 #include <stdio.h>
 #include <string.h>
 

@@ -1,3 +1,4 @@
+//Write a program to find the prime numbers or not
 #include<stdio.h>
 int main()
 {

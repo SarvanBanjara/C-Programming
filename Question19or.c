@@ -1,3 +1,4 @@
+//Write a program to read any day number in integer and display the day name in word format.
 #include<stdio.h>
 int main()
 {

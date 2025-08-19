@@ -1,3 +1,4 @@
+//Write a  program to check whether a number is a Strong Number or not.. 
 #include<stdio.h>
 #include<math.h>
 int main() 

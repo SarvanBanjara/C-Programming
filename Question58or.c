@@ -1,3 +1,4 @@
+//Write a program to remove the spaces from a string
 #include <stdio.h>
 int main()
 {

@@ -1,3 +1,4 @@
+//Write a program to print the sum of all factors of a number
 #include<stdio.h>
 int main()
 { int n , sum=0;

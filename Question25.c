@@ -1,3 +1,4 @@
+//Write a program to  find the sum and average up to nth term.
 #include<stdio.h>
 int main()
 {

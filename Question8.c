@@ -1,3 +1,6 @@
+//Design a program that calculates the simple interest based on user-provided principal, rate, and time
+//[ Simple Interest = ( Principal x Interest x Time )/ 100  ]
+
 #include<stdio.h>
 int main()
 {

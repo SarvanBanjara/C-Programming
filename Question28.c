@@ -1,3 +1,4 @@
+//Write a program to print the sum of all even & odd numbers separately up to n term
 #include<stdio.h>
 #include<math.h>
 int main() {

@@ -1,3 +1,4 @@
+//Write a program to find the prime numbers from 1 to 1000
 #include<stdio.h>
 int main()
 {

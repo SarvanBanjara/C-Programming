@@ -1,3 +1,4 @@
+//Write a program to print the power of a raised to the power of b.
 #include<stdio.h>
 int main()
 { int a,b;

@@ -1,3 +1,7 @@
+//Write a program to print the characters of a string in reverse order.
+//Sample Input →String  : “adakam”                           
+
+//Sample Output → Result ⇒ “makada”
 #include<stdio.h>
 #include<string.h>
 int main()

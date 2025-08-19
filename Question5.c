@@ -1,3 +1,7 @@
+//Create a program that converts temperatures from Celsius to Fahrenheit
+//[ Fahrenheit= ( Celsius * 9 / 5) + 32 ]
+
+
 #include<stdio.h>
 int main()
 {

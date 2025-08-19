@@ -1,3 +1,4 @@
+//Write a program to Alternatively Merge two Strings
 
 #include <stdio.h>
 int main()

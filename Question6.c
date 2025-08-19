@@ -1,3 +1,5 @@
+//Write a  program that converts kilometers per hour to miles per hour
+//[Miles per hour (mph) = Kilometers per hour (kmph) * 0.621371 ]
 #include <stdio.h>
 int main()
 {

@@ -1,3 +1,4 @@
+//Write a program to compare two strings if they are identical print (identical) else (not identical)
 #include <stdio.h>
 #include <string.h>
 int main()

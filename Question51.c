@@ -1,3 +1,8 @@
+// Write a program  to input a string and print it. Also, find its length.
+// Sample Input →String  : “Hello Shery”                           
+
+// Sample Output → String is “Hello Shery” and its length is 11
+
 #include<stdio.h>
 int main()
 {

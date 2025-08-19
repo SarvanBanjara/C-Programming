@@ -1,3 +1,4 @@
+// Write a  program that takes hours and minutes as input, and calculates the total number
 #include<stdio.h>
 int main()
 {

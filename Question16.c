@@ -1,3 +1,4 @@
+//Accept marks of 4 subjects and calculate percentage if percentage is below 35% - F ,below 45% - D ,  below 55% - C , below 75% - B , above 75% - A 
 #include<stdio.h>
 int main()
 {

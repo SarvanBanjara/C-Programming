@@ -1,3 +1,4 @@
+//Write a program in C to print natural numbers up to n
 #include<stdio.h>
 int main()
 {

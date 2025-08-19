@@ -1,3 +1,7 @@
+//Write a  program to check whether a given number is a 'Harshad' number or not. 
+//Sample Input → n : 24      
+
+//[ Explanation : Harshad number is a number which is completely divisible by sum of its digits ]  
 #include<stdio.h>
 #include<math.h>
 int main() 
